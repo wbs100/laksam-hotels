@@ -5,7 +5,7 @@ Author URI:     https://themeforest.net/user/namespace-it
 Version:        1.1
 File:           Js File
 Last change:    23/12/2024
-Assigned to:    Jaide Regency
+Assigned to:    Laksam Hotels
 Primary use:    Hotel 
 
 -------------------------------------------------------------------

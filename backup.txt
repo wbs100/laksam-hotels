@@ -180,7 +180,7 @@
                                 <h1 class="mb-5 white-clr fw-semibold">Your <span class="theme-clr">Gateway</span>
                                     to<br>Cultural Paradise<br>in Kandy</h1>
                                 <p class="mb-5">
-                                    Welcome to the heart of Sri Lanka’s cultural capital. At Jaide Regency Kandy, we
+                                    Welcome to the heart of Sri Lanka’s cultural capital. At Laksam Hotels Kandy, we
                                     invite you to experience authentic Sri Lankan hospitality infused with modern
                                     luxury. Discover serenity, elegance, and a warm welcome in the sacred city of Kandy.
                                 </p>
@@ -214,7 +214,7 @@
                                 <h1 class="mb-5 white-clr fw-semibold">Experience <span class="theme-clr">Luxury
                                     </span><br>in the Heart of<br>Sacred Kandy</h1>
                                 <p class="mb-5">
-                                    Welcome to the heart of Sri Lanka’s cultural capital. At Jaide Regency Kandy, we
+                                    Welcome to the heart of Sri Lanka’s cultural capital. At Laksam Hotels Kandy, we
                                     invite you to experience authentic Sri Lankan hospitality infused with modern
                                     luxury. Discover serenity, elegance, and a warm welcome in the sacred city of Kandy.
                                 </p>
